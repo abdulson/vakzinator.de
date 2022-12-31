@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://abdulson.github.io/vakzinator.de/vakzinator/index.html",
+            "url": "https://abdulson.github.io/vakzinator.de/vakzinator/index.html",
+            "title": "vakzinator",
+            "author": {
+                "name": "M. Stretz"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-31T20:17:15+01:00",
+            "date_modified": "2022-12-31T20:17:15+01:00"
+        },
+        {
             "id": "https://abdulson.github.io/vakzinator.de/datenschutz/index.html",
             "url": "https://abdulson.github.io/vakzinator.de/datenschutz/index.html",
             "title": "DATENSCHUTZ",

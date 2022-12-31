@@ -3,12 +3,24 @@
     <title>vakzinator.de</title>
     <link href="https://abdulson.github.io/vakzinator.de/feed.xml" rel="self" />
     <link href="https://abdulson.github.io/vakzinator.de" />
-    <updated>2022-12-31T20:13:32+01:00</updated>
+    <updated>2022-12-31T20:17:15+01:00</updated>
     <author>
         <name>M. Stretz</name>
     </author>
     <id>https://abdulson.github.io/vakzinator.de</id>
 
+    <entry>
+        <title>vakzinator</title>
+        <author>
+            <name>M. Stretz</name>
+        </author>
+        <link href="https://abdulson.github.io/vakzinator.de/vakzinator/index.html"/>
+        <id>https://abdulson.github.io/vakzinator.de/vakzinator/index.html</id>
+
+        <updated>2022-12-31T20:17:15+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>DATENSCHUTZ</title>
         <author>
