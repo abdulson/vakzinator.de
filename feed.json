@@ -9,5 +9,41 @@
         "name": "M. Stretz"
     },
     "items": [
+        {
+            "id": "https://abdulson.github.io/vakzinator.de/datenschutz/index.html",
+            "url": "https://abdulson.github.io/vakzinator.de/datenschutz/index.html",
+            "title": "DATENSCHUTZ",
+            "author": {
+                "name": "M. Stretz"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-31T20:13:32+01:00",
+            "date_modified": "2022-12-31T20:13:32+01:00"
+        },
+        {
+            "id": "https://abdulson.github.io/vakzinator.de/kontakt/index.html",
+            "url": "https://abdulson.github.io/vakzinator.de/kontakt/index.html",
+            "title": "KONTAKT",
+            "author": {
+                "name": "M. Stretz"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-31T20:13:21+01:00",
+            "date_modified": "2022-12-31T20:13:21+01:00"
+        },
+        {
+            "id": "https://abdulson.github.io/vakzinator.de/impressum/index.html",
+            "url": "https://abdulson.github.io/vakzinator.de/impressum/index.html",
+            "title": "IMPRESSUM",
+            "author": {
+                "name": "M. Stretz"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-31T20:12:36+01:00",
+            "date_modified": "2022-12-31T20:12:36+01:00"
+        }
     ]
 }
