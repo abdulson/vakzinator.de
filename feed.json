@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "vakzinator",
+    "description": "",
+    "home_page_url": "https://abdulson.github.io/abdulson",
+    "feed_url": "https://abdulson.github.io/abdulson/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "M. Stretz"
+    },
+    "items": [
+    ]
+}

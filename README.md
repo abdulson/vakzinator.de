@@ -1,2 +1,0 @@
-# vakzinator.de
-vakzinator.de
